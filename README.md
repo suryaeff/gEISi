@@ -17,6 +17,7 @@ There are a fair amount of requirements for using the gEISi algorithm. The user 
 One last warning: the gEISi algorithm is ultimately a stochastic data-fitting tool with several underlying assumptions. We do not promise magic results - it does not make a bad model good. For a guided sample problem, see the word document attached, titled "Examples.docx".
 
 Cheers,
+
 Surya Effendy
 
 References:
