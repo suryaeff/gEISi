@@ -20,6 +20,9 @@ Cheers,
 Surya Effendy
 
 References:
+
 [1] Effendy, Surya, Juhyun Song, and Martin Z. Bazant. "Analysis, Design, and Generalization of Electrochemical Impedance Spectroscopy (EIS) Inversion Algorithms." Journal of the Electrochemical Society (2020).
+
 [2] Song, Juhyun, and Martin Z. Bazant. "Electrochemical impedance imaging via the distribution of diffusion times." Physical review letters 120.11 (2018): 116001.
+
 [3] Florsch, Nicolas, André Revil, and Christian Camerlynck. "Inversion of generalized relaxation time distributions with optimized damping parameter." Journal of Applied Geophysics 109 (2014): 119-132.
